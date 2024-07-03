@@ -1,0 +1,19 @@
+/* Custom CSS for styling */
+
+body {
+    padding-top: 56px; /* Adjusted for fixed navbar */
+}
+
+.carousel-item {
+    height: 400px; /* Adjust height as needed */
+}
+
+.modal-body {
+    text-align: center;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
